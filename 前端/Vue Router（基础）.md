@@ -72,7 +72,7 @@ export default router
 
 当你点击 <router-link> 时，内部会调用这个方法，所以点击 <router-link :to="..."> 相当于调用 router.push(...)
 
-![编程式导航-1](C:\Users\ACER\Desktop\MyLearningNotes\img\image-20220506105927372.png)
+![编程式导航-1](https://raw.githubusercontent.com/Alexie-Z-Yevich/MyLearningNotes/master/img/image-20220506105927372.png)
 
 ```js
 // 字符串路径
