@@ -1,6 +1,8 @@
 # JavaWeb
 
 > 写在前面：这篇文档旨在对于[LyFive的文档](https://github.com/Lyfive/HnusterComputer/blob/main/JavaWeb/JavaWeb%E5%A4%8D%E4%B9%A0%E6%96%87%E6%A1%A3.md)进行一个补充（也就是仅自用的意思），我的更注重于详细的通俗易懂文字描述以及课后习题的解答，而他的主要是给大家画了流程图，方便大家了解体系结构。建议先看他那版后再来参阅我的OWO。
+>
+> ​                                                                                                                                                                       ——By Alexie-Z-Yevich 2022.5.9
 
 #### 第一章 Web应用开发简介
 
