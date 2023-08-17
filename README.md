@@ -43,7 +43,7 @@
 |                           论文题目                           |                             作者                             |                            关键词                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | A Survey on Artificial Intelligence for Music Generation: Agents, Domains and Perspectives | Carlos Hernandez-Olivan, Javier Hernandez-Olivan, and Jose R. Beltran | 音乐生成、音乐信息检索、人工智能、深度学习、机器学习、人机交互 |
-|                                                              |                                                              |                                                              |
+|        MUSIC COMPOSITION WITH DEEP LEARNING: A REVIEW        | Department of Engineering and Communications, Calle María de Luna, Universidad de Zaragoza |            音乐生成、深度学习、机器学习、神经网络            |
 |                                                              |                                                              |                                                              |
 
 
@@ -51,6 +51,12 @@
 ------
 
 #### 简单介绍下我之后在该仓库下的计划（每次push之后更新）：
+
+###### 2023.8.17
+
+完成《A Survey on Artificial Intelligence for Music Generation: Agents, Domains and Perspectives》的阅读，下一篇大概会提速，暂定《MUSIC COMPOSITION WITH DEEP LEARNING: A REVIEW》。
+
+
 
 ###### 2023.7.8
 
