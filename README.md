@@ -44,13 +44,24 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | A Survey on Artificial Intelligence for Music Generation: Agents, Domains and Perspectives | Carlos Hernandez-Olivan, Javier Hernandez-Olivan, and Jose R. Beltran | 音乐生成、音乐信息检索、人工智能、深度学习、机器学习、人机交互 |
 |        MUSIC COMPOSITION WITH DEEP LEARNING: A REVIEW        | Department of Engineering and Communications, Calle María de Luna, Universidad de Zaragoza |            音乐生成、深度学习、机器学习、神经网络            |
-|                                                              |                                                              |                                                              |
+|   SingSong: Generating musical accompaniments from singing   | Chris Donahue ,Antoine Caillon, Adam Roberts,Ethan Manilow,Philippe Esling,Andrea Agostinelli,Mauro Verzetti,lan Simon,Olivier Pietquin,Neil Zeghidour,Jesse Engel |                       Google Research                        |
+|             MusicLM: Generating Music From Text              | Andrea Agostinelli, Timo I. Denk,1 Zalan Borsos ,Jesse Engel,Mauro Verzetti,Antoine Caillon,Qingqing Huang,Aren Jansen,Adam Roberts,Marco Tagliasacchi,Matt Sharifi,Neil Zeghidour,Christian Frank |                       Google Research                        |
 
 
 
 ------
 
 #### 简单介绍下我之后在该仓库下的计划（每次push之后更新）：
+
+###### 2023.8.22
+
+完成《MUSIC COMPOSITION WITH DEEP LEARNING: A REVIEW》的阅读，综述类的算是看吐了，我觉得我自己写水平也差不多，这种大概率发不到顶刊上期（如果能发那真对不起，在下水平有限），看两篇技术型的涨涨实践意识而不是理论意识吧。
+
+《SingSong Generating musical accompaniments from singing》和《MusicLM Generating Music From Text》，其实比较想读 MusicVAE 2 相关的论文，但是还没来的及找，找好了的还有 3 ~ 4 篇还没列入计划呢。暂时就这样吧。
+
+PS：个人项目 www.fenrisx.top 教学任务管理平台下线一段时间，腾讯云的服务器和阿里云的域名搭配配合不佳，懒得维护直接下线了。双十一入阿里云服务器之后再上。博客网站 www.fenrisx.icu 正常运行，不过论文还没更新。emmm月底或者开学再更吧。
+
+
 
 ###### 2023.8.17
 
@@ -62,7 +73,7 @@
 
 开个新坑，因为决定考研所以会开始系统性的看论文，记录一些我感兴趣的不算精翻的精翻上传到此处。虽然不知道是否侵权，但是先上传着吧，主要会围绕生成式AI音乐方向为主，这也是我学计算机以来最感兴趣的方向。没有详细的规划，有时候看一篇就上传一篇，有时候看一段就上传一段。
 
-如有侵权嫌疑，还请大家告知。因为有些论文过长（比如现在这个有26页），在www.fenrisx.icu会采取分P或是简化版的方式进行上传，该仓库下的为完全版。
+如有侵权嫌疑，还请大家告知。因为有些论文过长（比如现在这个有26页），在 www.fenrisx.icu 会采取分 P 或是简化版的方式进行上传，该仓库下的为完全版。
 
 
 
