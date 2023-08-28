@@ -1,10 +1,10 @@
 # 深度学习的音乐创作综述
 
-Carlos Hernandez-Olivan
+#### Carlos Hernandez-Olivan
 
-Jose R. Beltran
+#### Jose R. Beltran
 
-Department of Engineering and Communications, Calle María de Luna, Universidad de Zaragoza
+#### Department of Engineering and Communications, Calle María de Luna, Universidad de Zaragoza
 
 > **观后简言：**
 >
