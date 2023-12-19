@@ -92,7 +92,7 @@ char c[] = "qwq !";
 typedef struct BTNode {
     int data;
     int path;
-    struct TNode *lchild, *rchild;
+    struct BTNode *lchild, *rchild;
 }BTNode, *BiTree;
 ```
 
